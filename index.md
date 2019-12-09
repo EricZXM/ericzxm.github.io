@@ -1,2 +1,0 @@
-# ZHENG Ximin
-## Hello world!
